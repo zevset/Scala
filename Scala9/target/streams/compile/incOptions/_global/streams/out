@@ -1,0 +1,14 @@
+[debug] Created transactional ClassFileManager with tempDir = /home/ekmz/Documentos/Scala9/target/scala-2.11/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	SafeStringUtils$$anonfun$parseToInt$1$$anonfun$apply$1.class
+[debug] 	SafeStringUtils$$anonfun$trimToNone$1.class
+[debug] 	SafeStringUtils$$anonfun$parseToInt$1.class
+[debug] 	HtmlUtils.class
+[debug] 	SafeStringUtils$.class
+[debug] 	HtmlUtils$.class
+[debug] 	SafeStringUtils$$anonfun$trimToNone$2.class
+[debug] 	SafeStringUtils$class.class
+[debug] 	SafeStringUtils.class
+[debug] Removing the temporary directory used for backing up class files: /home/ekmz/Documentos/Scala9/target/scala-2.11/classes.bak
